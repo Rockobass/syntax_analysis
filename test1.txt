@@ -1,0 +1,5 @@
+main: ;
+    floata;,b,c;
+
+    b=a+c;
+    end
